@@ -1,4 +1,4 @@
-# SHEDEX - Open source GameFi DEX based on the gaming ecosystem of the SHEDEVER studio
+# SHEDEX - Open source GameFi DEX based on TON blockchain.
 
 The SHEDEVER studio team highly values the community's contribution to the development of its open source solutions!
 
