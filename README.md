@@ -26,7 +26,7 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDEX/issues)" section and select the issue that interests you most.
 2. Study the essence of the problem and propose your own solution to it.
 
-### The winner Determination
+## 🤓 The winner Determination
 
 We will choose one winner for each issue. The winner will be determined by voting by our community.
 
