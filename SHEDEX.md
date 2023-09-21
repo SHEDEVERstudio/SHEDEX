@@ -7,6 +7,3 @@
 > Each of you can become part of the development history of the first TON GameFi DEX on the blockchain!
 >
 > Sincerely, SHEDEVER studio team!
-
-## How can you contribute to the development of SHEDEX?
-
