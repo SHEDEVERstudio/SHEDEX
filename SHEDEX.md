@@ -8,5 +8,5 @@
 >
 > Sincerely, SHEDEVER studio team!
 
-## How to participate?
+## How can you contribute to the development of SHEDEX?
 
