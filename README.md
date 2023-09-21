@@ -44,14 +44,25 @@ Participants whose works receive the most votes from our community will receive 
 ## 🚀 Join the SHEDEVER studio Community
 
 [Telegram Channel ENG](https://t.me/chesszombieseng)
+
 [Telegram Chat ENG](https://t.me/chesszombieschateng)
+
 [Telegram Channel RU](https://t.me/chesszombies)
+
 [Telegram Chat RU](https://t.me/chesszombieschat)
+
 [Twitter](https://twitter.com/ShedEVERstudio)
+
 [Instagram](https://www.instagram.com/shedeverstudio/)
+
 [Youtube](https://www.youtube.com/channel/UChZankrqYrt7GYyH-6b0U7A)
+
 [Chess Zombies Website](https://chesszombies.fun/)
+
 [Whitepaper ENG](https://shedever-studio.gitbook.io/chess-zombies-wpeng/)
+
 [Whitepaper RU](https://shedever-studio.gitbook.io/chess-zombies-wpru/)
+
 [NFT WL collection](https://getgems.io/collection/EQD6NEcyDESwKua8-dvuMZyU8NVnYAVLc-cECE-y4ag312YK?filter=%7B"attributes"%3A%7B%7D%7D#items)
+
 [NFT Chess Pieces collection](https://getgems.io/collection/EQAJj5xds2ms8_4t8chCgFo-sOwc3s3CjbV95EBejcdAilVY)
