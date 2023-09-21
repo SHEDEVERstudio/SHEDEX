@@ -10,15 +10,15 @@
 
 ### 📁 SHEDEVER studio Team
 
-**Description:** 🌐 Студия SHEDEVER это GameDev студия, разрабатывающая Web3 настольные игры в смешанных игровых жанрах Strategy RPG. В основе каждой игры лежит одна из классических настолок - Шахматы, Шашки, Нарды, Го и Покер. Помимо игр студия SHEDEVER разрабатывает собственные DEX - "SHEDEX" и NFT Маркетплейс - "SHEDGEMS".
+**Description:** 🌐 SHEDEVER Studio is a GameDev studio developing Web3 board games in mixed Strategy RPG game genres. Each game is based on one of the classic board games - Chess, Checkers, Backgammon, Go and Poker. In addition to games, the SHEDEVER studio develops its own DEX - "SHEDEX" and NFT Marketplace - "SHEDGEMS".
 
-#### Сейчас студия SHEDEVER занимается разработкой своей первой игры на базе Шахмат - **Chess Zombies** а также оупенсорс проектов **SHEDEX** и **SHEDGEMS**.
+#### Now the SHEDEVER studio is developing its first game based on Chess - **Chess Zombies** as well as open source projects **SHEDEX** and **SHEDGEMS**.
 
 - #### SHEDEX
-**Description:** SHEDEX это многофункциональный GameFi DEX, предназначенный для создания бесшовного игрового опыта для любителей интеллектуальных настольных и Strategy RPG.
-  **GitHub Link:** 🔗 [SHEDEX](https://github.com/SHEDEVERstudio/SHEDEX-hack-ton-berfest)
+**Description:** SHEDEX is a feature-rich GameFi DEX designed to create a seamless gaming experience for fans of intelligent board games and Strategy RPGs.
+   **GitHub Link:** 🔗 [SHEDEX](https://github.com/SHEDEVERstudio/SHEDEX-hack-ton-berfest)
 
 - #### SHEDGEMS
-**Description:** SHEDGEMS это полноценный NFT/SFT маркетплейс, интегрированный в GameFi 
- экосистему студии SHEDEVER. Как и SHEDEX он будет предназначенн для создания бесшовного игрового опыта для любителей интеллектуальных настольных и Strategy RPG.
-  **GitHub Link:** 🔗 [SHEDGEMS](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest)
+**Description:** SHEDGEMS is a full-fledged NFT/SFT marketplace integrated into GameFi
+  SHEDEVER studio ecosystem. Like SHEDEX, it will be designed to create a seamless gaming experience for fans of intelligent board games and strategy RPGs.
+   **GitHub Link:** 🔗 [SHEDGEMS](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest)
