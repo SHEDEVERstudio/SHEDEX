@@ -30,7 +30,7 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 
 We will choose one winner for each issue. The winner will be determined by voting by our community.
 
-Voting will take place in the [ENG Telegram channel](https://t.me/chesszombieseng) of our first game Ches Zombies.
+Voting will take place in the [ENG Telegram channel](https://t.me/chesszombieseng) of our first game Chess Zombies.
 
 ## 🎉 Prizes
 Participants whose works receive the most votes from our community will receive from SHEDEVER studio:
