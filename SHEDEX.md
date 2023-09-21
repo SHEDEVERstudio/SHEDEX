@@ -10,6 +10,6 @@
 
 
 
-### For any questions, you can contact our CM [Giheron](https://t.me/Giheron)
+### For any questions, you can contact our CM - [Giheron](https://t.me/Giheron)
 
 ### Chat for discussing SHEDEX tasks: https://t.me/chesszombieschat/114306
