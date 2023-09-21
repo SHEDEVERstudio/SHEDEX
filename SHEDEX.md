@@ -16,9 +16,9 @@
 
 - #### SHEDEX
 **Description:** SHEDEX is a feature-rich GameFi DEX designed to create a seamless gaming experience for fans of intelligent board games and Strategy RPGs.
-   **GitHub Link:** 🔗 [SHEDEX](https://github.com/SHEDEVERstudio/SHEDEX-hack-ton-berfest)
+  **GitHub Link:** 🔗 [SHEDEX](https://github.com/SHEDEVERstudio/SHEDEX-hack-ton-berfest)
 
 - #### SHEDGEMS
 **Description:** SHEDGEMS is a full-fledged NFT/SFT marketplace integrated into GameFi
   SHEDEVER studio ecosystem. Like SHEDEX, it will be designed to create a seamless gaming experience for fans of intelligent board games and strategy RPGs.
-   **GitHub Link:** 🔗 [SHEDGEMS](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest)
+  **GitHub Link:** 🔗 [SHEDGEMS](https://github.com/SHEDEVERstudio/SHEDGEMS-hack-ton-berfest)
