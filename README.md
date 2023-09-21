@@ -24,7 +24,7 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 
 ### Step 2: Choose a task to contribute
 1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDEX/issues)" section and select the issue that interests you most.
-2. Follow the instructions provided in the chosen repository to get started.
+2. Study the essence of the problem and propose your own solution to it.
 
 ### Step 3: Contributing
 1. Fork the repository to your GitHub account.
