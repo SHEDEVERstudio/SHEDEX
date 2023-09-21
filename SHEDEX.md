@@ -8,6 +8,7 @@ Each of you can become part of the development history of the first TON GameFi D
 
 Sincerely, SHEDEVER studio team!
 
+--
 
 For any questions, you can contact our CM - @Giheron (Telegram)
 
