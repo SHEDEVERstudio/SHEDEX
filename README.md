@@ -26,18 +26,14 @@ HACK-TON-BERFEST is a month dedicated to open source, inspired by the classic Ha
 1. Explore the "[Issues](https://github.com/SHEDEVERstudio/SHEDEX/issues)" section and select the issue that interests you most.
 2. Study the essence of the problem and propose your own solution to it.
 
-### Step 3: Contributing
-1. Fork the repository to your GitHub account.
-2. Create a new branch in your fork, for example, **`feature/your-feature-name`**.
-3. Make your changes or additions and commit them.
-4. Create a pull request to the main repository.
-5. Mention your Telegram profile in the pull request
-6. Contact the team: notify the team of your PR to check the code
-
->Video tutorial: If you prefer visual learning, check out [this video tutorial]() on contributing!
-
 ## 🎉 Prizes
-Apart from the chance to receive double merch, active participants also stand a chance to win additional rewards, including special accesses and bonuses from partners in the TON ecosystem.
+Participants whose works receive the most votes from our community will receive from SHEDEVER studio:
+
+- NFT Whitelist [25](https://getgems.io/collection/EQD6NEcyDESwKua8-dvuMZyU8NVnYAVLc-cECE-y4ag312YK?filter=%7B%22attributes%22%3A%7B%22Discount%22%3A%5B%2225%25%22%5D%7D%7D) providing many [benefits](https://t.me/chesszombieseng/111) within the SHEDEVER studio ecosystem.
+- 100 [SAFT ENRG](https://shedever-studio.gitbook.io/chess-zombies-wpeng/information/energy-cells-usdenrg/saft-enrg).
+- The role of "SHEDEX Winner" in our [discord](https://discord.gg/kPxnUZEeFM) and [telegram chat](https://t.me/chesszombieschat/100454)
+- [NFT Knight Warrior](https://getgems.io/collection/EQAJj5xds2ms8_4t8chCgFo-sOwc3s3CjbV95EBejcdAilVY?filter=%7B%22sort%22%3A%22RarityRankAsc%22%2C%22attributes%22%3A%7B%22Subclass%22%3A%5B%22Warrior%22%5D%2C%22Class%22%3A%5B%22Knight%22%5D%7D%7D) from the Chess Pieces collection
+- Place on the honor board in our [metaspace](https://hubs.mozilla.com/cvzjq4A/chess-zombies-middle-earth)
 
 ## 🚀 Join the Community
 
